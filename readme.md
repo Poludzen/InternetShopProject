@@ -16,7 +16,7 @@ python 3 и postgreSQL. В postgreSQL также необходимо созда
 ### Настройка проекта
 1. Клонирование репозитория с кодом
 ```
-git clone https://github.com/akimich11/internet-shop.git
+git clone https://github.com/Poludzen/InternetShopProject.git
 ```
 2. Создание виртуального окружения python (внутри папки с репозиторием)
 ```
